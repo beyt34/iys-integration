@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Iys.Integration.Console
+/.vs/iys-integration/v16
+/.vs
