@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Iys.Integration.Console
-/.vs/iys-integration/v16
-/.vs
+/Iys.Integration.Console/bin/Debug/netcoreapp3.1
+/.vs/Iys.Integration
+/Iys.Integration.Console/obj
